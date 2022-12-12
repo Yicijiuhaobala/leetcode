@@ -1,0 +1,17 @@
+### 解题思路
+
+API选手
+
+### 代码
+
+* java
+
+```java
+class Solution {
+    public int lengthOfLastWord(String s) {
+        String[] arrays = s.split(" ");
+        return (arrays[arrays.length - 1]).length();
+    }
+}
+```
+
