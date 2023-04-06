@@ -1,8 +1,7 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public int romanToInt(String s) {
-        s.substring();
+    public int maxProfit(int[] prices) {
 
     }
 }
